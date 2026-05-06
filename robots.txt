@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fabriziagonsales.github.io/Meu-site-de-solu-oes/sitemap.xml
